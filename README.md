@@ -32,7 +32,7 @@ so that other users can share the ride if it is on their own way and split the c
 
 # 5) Subscription Organizaion App: 
 
-**Idea:** app that will keep trakc of all your subscriptions and bills and will alert you as the paymetn date arrives.
+**Idea:** app that will keep track of all your subscriptions and bills and will alert you as the payment date arrives.
 (additional intergrated payment system for automatic payment of bills)
 
 **Idea Generate:**  Internet
